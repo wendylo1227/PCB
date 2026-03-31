@@ -44,7 +44,7 @@ The system consists of three main stages:
 
 ## PCB Fabrication
 
-![PCB Bottom](pcb_bottom.jpg)
+![PCB Bottom](pcb_bottom.png)
 
 Fabrication process:
 
@@ -58,7 +58,7 @@ Fabrication process:
 
 ## Hardware Implementation
 
-![PCB Top](pcb_top.jpg)
+![PCB Top](pcb_top.png)
 
 - Assembled all components on the fabricated PCB  
 - Verified circuit connectivity and functionality  
@@ -67,7 +67,7 @@ Fabrication process:
 
 ## Measurement Setup
 
-![Measurement Setup](measurement.jpg)
+![Measurement Setup](measurement.png)
 
 - Used oscilloscope probes to measure output signals  
 - Tested each stage of the system individually  
@@ -76,7 +76,7 @@ Fabrication process:
 
 ## Measurement Results and Verification
 
-![Oscilloscope](oscilloscope.jpg)
+![Oscilloscope](oscilloscope.png)
 
 - **CH1 (Vout1): 15.7 V** → Voltage quadrupler operates correctly  
 - **CH2 (Vout2): 5.97 V** → LDO provides stable ~6V output  
